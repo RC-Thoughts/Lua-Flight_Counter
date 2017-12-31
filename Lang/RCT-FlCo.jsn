@@ -1,0 +1,9 @@
+{
+  "default":"en",
+  "en":{
+    "appName":"RCT Flight Counter",
+    "swCount":"Select Switch",
+	"actTime":"Set Min. Time",
+    "curCount":"Set New Flight Count"
+  }
+}
